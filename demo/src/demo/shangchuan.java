@@ -1,5 +1,7 @@
+package demo;
+
 import java.util.Scanner;
-public class demo1
+public class shangchuan
 {	
 	public static void main(String[] args)
 	{
